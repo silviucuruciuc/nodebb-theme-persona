@@ -1,14 +1,14 @@
 {
-  "name": "nodebb-theme-persona",
-  "version": "10.1.5",
+  "name": "nodebb-theme-persona-rmt",
+  "version": "1.0.0",
   "nbbpm": {
     "compatibility": "^1.13.0"
   },
-  "description": "Persona theme for NodeBB",
+  "description": " Custom theme based on Persona theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/silviucuruciuc/nodebb-theme-persona"
   },
   "keywords": [
     "nodebb",
@@ -36,7 +36,7 @@
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+    "url": "https://github.com/silviucuruciuc/nodebb-theme-persona/issues"
   },
   "dependencies": {
     "pulling": "^2.0.0",
